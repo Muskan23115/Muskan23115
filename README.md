@@ -10,7 +10,7 @@ I am a passionate Computer Science student dedicated to building impactful digit
 
 - 🔭 I’m currently working on **Full Stack Web Applications**
 - 📚 Learning **Advanced Data Structures and Algorithms**
-- ⚡ Fun fact: **I believe every bug is just a feature waiting to be understood.**
+- ⚡ Fun fact: **If I can't debug it, it's not a bug—it's a surprise feature. 😋**
 
 ---
 
