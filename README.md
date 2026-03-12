@@ -11,7 +11,7 @@
 ---
 ### 👩‍💻 About Me
 
-I am a first-year B.Tech engineering student currently in my II-Semester, dedicated to building impactful digital solutions and securing them. Like the code I write, I’m constantly evolving and exploring new realms in tech.
+I am Muskan, a passionate Computer Science student at the intersection of full-stack development and cybersecurity. As an EC-Council Certified SOC Analyst, I specialize in threat detection, incident response, and security monitoring — while also crafting impactful digital solutions. I thrive at the edge where code meets defense, and I'm always evolving.
 
 * 🎓 **Certified SOC Analyst** by EC-Council
 * 🌐 Passionate about **IoT (Internet of Things)** and modern threat detection
