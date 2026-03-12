@@ -1,40 +1,59 @@
-# <p align="center">✨ Welcome to Muskan's Dev Space ✨</p>
 
+
+<h1 align="center">✨ Welcome to Muskan's Dev Space ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF9F1C&center=true&vCenter=true&width=500&lines=I'm+a+Full-Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast;Let's+build+something+cool!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF9F1C&center=true&vCenter=true&width=500&lines=Certified+SOC+Analyst;I'm+a+Full-Stack+Developer;IoT+%26+Cybersecurity+Enthusiast;Problem+Solver;Let's+build+something+cool!"/>
 </p>
----
+<div align="center">
+  <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="Cyberpunk Pixel Art Animation" width="100%" />
+</div>
 
+---
 ### 👩‍💻 About Me
-I am a passionate Computer Science student dedicated to building impactful digital solutions. Like the code I write, I’m constantly evolving and learning new ways to optimize the world around me.
 
-- 🔭 I’m currently working on **Full Stack Web Applications**
-- 📚 Learning **Advanced Data Structures and Algorithms**
-- ⚡ Fun fact: **If I can't debug it, it's not a bug—it's a surprise feature. 😋**
+I am a first-year B.Tech engineering student currently in my II-Semester, dedicated to building impactful digital solutions and securing them. Like the code I write, I’m constantly evolving and exploring new realms in tech.
+
+* 🎓 **Certified SOC Analyst** by EC-Council
+* 🌐 Passionate about **IoT (Internet of Things)** and modern threat detection
+* 🔭 I’m currently working on **Full Stack Web Applications**
+* 📚 Learning **Advanced Data Structures, Algorithms, and C programming**
+* ⚡ Fun fact: **If I can't debug it, it's not a bug—it's a surprise feature. 😋**
 
 ---
 
-### 🛠 Technical Skills
+### 🛠 Technical Skills & Toolkit
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **Cybersec & OS** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |
 | **Web Dev** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| **Platforms** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) |
+| **AI Tools** | ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-4B32C3?style=for-the-badge&logo=rocket&logoColor=white) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Muskan23115&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muskan23115&theme=tokyonight&hide_border=true" />
-</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muskan23115&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muskan23115&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
 
 ---
 
 ### 📬 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/muskan23115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:muskansharma23115@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
-</p>
+
+<div align="left">
+  <a href="https://linkedin.com/in/muskan23115">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:muskansharma23115@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/muscan_handle">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
